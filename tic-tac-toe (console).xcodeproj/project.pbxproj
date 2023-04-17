@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		35205F3729C7427800C61FF4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 35205F3629C7427800C61FF4 /* main.c */; };
+		35205F5B29CA522800C61FF4 /* tic-tac-toe.c in Sources */ = {isa = PBXBuildFile; fileRef = 35205F5A29CA522800C61FF4 /* tic-tac-toe.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		35205F3329C7427800C61FF4 /* tic-tac-toe (console) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "tic-tac-toe (console)"; sourceTree = BUILT_PRODUCTS_DIR; };
-		35205F3629C7427800C61FF4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		35205F5A29CA522800C61FF4 /* tic-tac-toe.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "tic-tac-toe.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		35205F3529C7427800C61FF4 /* tic-tac-toe (console) */ = {
 			isa = PBXGroup;
 			children = (
-				35205F3629C7427800C61FF4 /* main.c */,
+				35205F5A29CA522800C61FF4 /* tic-tac-toe.c */,
 			);
 			path = "tic-tac-toe (console)";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35205F3729C7427800C61FF4 /* main.c in Sources */,
+				35205F5B29CA522800C61FF4 /* tic-tac-toe.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
